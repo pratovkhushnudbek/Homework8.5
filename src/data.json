@@ -1,0 +1,126 @@
+[
+    {
+        "id":1,
+        "name":"Ул. Петра Мстиславца, 24",
+        "za_sutki":9899,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image": "./room-img.png" 
+
+    },
+    {
+        "id":2,
+        "name":"Ул. Веры Хоружей, 10/2",
+        "za_sutki":102,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img1.png"    
+    },
+    {
+        "id":3,
+        "name":"Пр-т Независимости, 52",
+        "za_sutki":540,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img2.png"    
+    },
+    {
+        "id":4,
+        "name":"Ул. Петра Мстиславца, 24",
+        "za_sutki":9899,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image": "./room-img.png" 
+
+    },
+    {
+        "id":5,
+        "name":"Ул. Веры Хоружей, 10/2",
+        "za_sutki":102,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img1.png"    
+    },
+    {
+        "id":6,
+        "name":"Пр-т Независимости, 52",
+        "za_sutki":540,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img2.png"    
+    },
+    {
+        "id":7,
+        "name":"Ул. Петра Мстиславца, 24",
+        "za_sutki":9899,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image": "./room-img.png" 
+
+    },
+    {
+        "id":8,
+        "name":"Ул. Веры Хоружей, 10/2",
+        "za_sutki":102,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img1.png"    
+    },
+    {
+        "id":9,
+        "name":"Пр-т Независимости, 52",
+        "za_sutki":540,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img2.png"    
+    },
+    {
+        "id":10,
+        "name":"Ул. Петра Мстиславца, 24",
+        "za_sutki":9899,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image": "./room-img.png" 
+
+    },
+    {
+        "id":11,
+        "name":"Ул. Веры Хоружей, 10/2",
+        "za_sutki":102,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img1.png"    
+    },
+    {
+        "id":12,
+        "name":"Пр-т Независимости, 52",
+        "za_sutki":540,
+        "spalnix_mest": 2,
+        "komnat": 1,
+        "location": "Маяк Минска",
+        "gorod":"Восток",
+        "image":"./room-img2.png"    
+    }
+]
